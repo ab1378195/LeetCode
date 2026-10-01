@@ -1,6 +1,3 @@
-from math import inf
-
-
 class Solution:
     def minOperations(self, nums: list[int], x: int) -> int:
         total = sum(nums)
