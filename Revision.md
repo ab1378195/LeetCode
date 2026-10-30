@@ -10,3 +10,5 @@
 [1569](./Linked%20List/Doubly%20Linked%20List/1569.py)
 ## LCA + Differential Tree Array
 3841
+## Dijkstra Algorithm
+3970
