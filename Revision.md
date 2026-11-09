@@ -14,3 +14,6 @@
 3841
 ## Dijkstra Algorithm
 3970
+## Heap
+1882
+1606
